@@ -1,0 +1,15 @@
+.{
+    .name = "weather-intel",
+    .version = "0.1.0",
+    .dependencies = .{
+        // No external dependencies yet - using stdlib only
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "ml",
+        "tests",
+        "README.md",
+    },
+}
